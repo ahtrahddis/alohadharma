@@ -1,8 +1,8 @@
-# Aloha Dharma: a compilation of texts from [https://alohadharma.com](https://alohadharma.com)
+# Aloha Dharma: a compilation of texts from [https://alohadharma.com](https://web.archive.org/web/20180822062113/https://alohadharma.com/)
 
 All texts were written by [Ron Crouch](https://alohadharma.com/about/).
 
-Note that even though these texts are freely accessible, their copyright holder is [Ron Crouch](https://alohadharma.com/about/).
+Note that even though these texts are freely accessible, their copyright holder is [Ron Crouch](https://web.archive.org/web/20190424160827/https://alohadharma.com/about/).
 
 
 ## Downloads (V 1.19 - 2020-02-07):
@@ -25,10 +25,3 @@ Note that even though these texts are freely accessible, their copyright holder 
 - The image used in the latest cover was taken from [http://thehamiltonproject.blogspot.com](http://thehamiltonproject.blogspot.com/)
 
 - You might have noticed that this e-book is being updated very frequently. All the changes affect the epub/azw3 and PDF formatting and have nothing to do with the text itself.
-
-
-
-## Donations to the author
-
-If you liked these texts by Ron Crouch, and you want to support him, please consider [making a donation](https://alohadharma.com/contact/).
-
